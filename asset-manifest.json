@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/matrizdafo/static/css/main.42e02a88.chunk.css",
-    "main.js": "/matrizdafo/static/js/main.447cb480.chunk.js",
-    "main.js.map": "/matrizdafo/static/js/main.447cb480.chunk.js.map",
+    "main.js": "/matrizdafo/static/js/main.0bb2d5c3.chunk.js",
+    "main.js.map": "/matrizdafo/static/js/main.0bb2d5c3.chunk.js.map",
     "runtime-main.js": "/matrizdafo/static/js/runtime-main.148c8edc.js",
     "runtime-main.js.map": "/matrizdafo/static/js/runtime-main.148c8edc.js.map",
     "static/css/2.11829350.chunk.css": "/matrizdafo/static/css/2.11829350.chunk.css",
     "static/js/2.2dd57e1c.chunk.js": "/matrizdafo/static/js/2.2dd57e1c.chunk.js",
     "static/js/2.2dd57e1c.chunk.js.map": "/matrizdafo/static/js/2.2dd57e1c.chunk.js.map",
     "index.html": "/matrizdafo/index.html",
-    "precache-manifest.3776db7043f20385e76565fe520256ec.js": "/matrizdafo/precache-manifest.3776db7043f20385e76565fe520256ec.js",
+    "precache-manifest.cd5a1e07eb0ba750dcd1158b9816b4c2.js": "/matrizdafo/precache-manifest.cd5a1e07eb0ba750dcd1158b9816b4c2.js",
     "service-worker.js": "/matrizdafo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/matrizdafo/static/css/2.11829350.chunk.css.map",
     "static/css/main.42e02a88.chunk.css.map": "/matrizdafo/static/css/main.42e02a88.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.2dd57e1c.chunk.js",
     "static/css/main.42e02a88.chunk.css",
-    "static/js/main.447cb480.chunk.js"
+    "static/js/main.0bb2d5c3.chunk.js"
   ]
 }
