@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/matrizdafo/static/css/main.42e02a88.chunk.css",
+    "main.js": "/matrizdafo/static/js/main.5ca0894b.chunk.js",
+    "main.js.map": "/matrizdafo/static/js/main.5ca0894b.chunk.js.map",
+    "runtime-main.js": "/matrizdafo/static/js/runtime-main.148c8edc.js",
+    "runtime-main.js.map": "/matrizdafo/static/js/runtime-main.148c8edc.js.map",
+    "static/css/2.11829350.chunk.css": "/matrizdafo/static/css/2.11829350.chunk.css",
+    "static/js/2.2dd57e1c.chunk.js": "/matrizdafo/static/js/2.2dd57e1c.chunk.js",
+    "static/js/2.2dd57e1c.chunk.js.map": "/matrizdafo/static/js/2.2dd57e1c.chunk.js.map",
+    "index.html": "/matrizdafo/index.html",
+    "precache-manifest.b88f3da9386621e29c2395c09a894294.js": "/matrizdafo/precache-manifest.b88f3da9386621e29c2395c09a894294.js",
+    "service-worker.js": "/matrizdafo/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/matrizdafo/static/css/2.11829350.chunk.css.map",
+    "static/css/main.42e02a88.chunk.css.map": "/matrizdafo/static/css/main.42e02a88.chunk.css.map",
+    "static/js/2.2dd57e1c.chunk.js.LICENSE.txt": "/matrizdafo/static/js/2.2dd57e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.148c8edc.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.2dd57e1c.chunk.js",
+    "static/css/main.42e02a88.chunk.css",
+    "static/js/main.5ca0894b.chunk.js"
+  ]
+}
